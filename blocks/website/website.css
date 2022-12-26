@@ -1,0 +1,11 @@
+.website {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+@media screen and (max-width: 320px) {
+    .website{
+        min-width: 288px;
+        margin: 0 auto;
+    }
+}
