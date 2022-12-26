@@ -19,6 +19,11 @@
     }
 }
 
+@media screen and (max-width: 425px) {
+    .header {
+        max-width: 380px;
+    }
+}
 
 @media screen and (max-width: 320px) {
     .header {
