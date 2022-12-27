@@ -6,19 +6,21 @@
     line-height: 22px;
     text-align: center;
 }
-
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 600px) {
     .cover__subtitle {
-        width: 380px;
+        max-width: 380px;
         font-size: 14px;
         line-height: 16px;
     }
-}
+} 
+@media screen and (max-width: 425px) {
+    .cover__subtitle {
+        margin-top: 16px;
+    }
+} 
 
 @media screen and (max-width: 320px) {
     .cover__subtitle {
-        width: 288px;
-        font-size: 14px;
-        line-height: 16px;
+        max-width: 288px;
     }
 }

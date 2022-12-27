@@ -4,3 +4,6 @@
 * Адаптивная вёрстка.
 * Структурирование файлов по БЭМ.
 * Грид-раскладка.
+
+##### Ссылка на GitHub Pages:
+* https://anastasiia-nist.github.io/russian-travel-anastasia/

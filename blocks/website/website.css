@@ -3,16 +3,17 @@
     flex-direction: column;
     justify-content: end;
 }
+
 @media screen and (max-width: 425px) {
     .website{
-        min-width: 380px;
-        margin: 0 auto;
+        max-width: 380px;
+        margin-left: 18px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .website{
         min-width: 288px;
-        margin: 0 auto;
+        margin-left: 16px;
     }
 }
