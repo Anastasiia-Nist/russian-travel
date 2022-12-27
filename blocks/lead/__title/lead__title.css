@@ -11,13 +11,13 @@
     .lead__title {
         margin-top: 48px;
     }
-
+}
 @media screen and (max-width: 768px) {
     .lead__title {
         font-size: calc(40px + 56 * (100vw - 320px) / (1280 - 320));
         line-height: calc(44px + 56 * (100vw - 320px) / (1280 - 320));
     }
-
+}
 @media screen and (max-width: 320px) {
     .lead__title {
         max-width: 288px;
