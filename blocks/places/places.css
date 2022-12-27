@@ -1,21 +1,4 @@
 .places {
-    max-width: 984px;
     margin: 92px auto 0;
-}
-@media screen and (max-width: 1020px) {
-    .places {
-        max-width: 928px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .places {
-        max-width: 720px;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .places {
-        margin-top: 52px;
-    }
+    box-sizing: border-box;
 }
