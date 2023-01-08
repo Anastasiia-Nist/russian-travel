@@ -3,9 +3,9 @@
     flex-direction: column;
     justify-content: end;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 600px) {
     .website {
-        max-width: 288px;
-        padding-left: 16px;
+        width: 288px;
+        margin: 0 auto;
     }
 }

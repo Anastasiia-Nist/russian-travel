@@ -4,11 +4,19 @@
     font-weight: 400;
     display: flex;
     align-items: flex-start;
+    margin-top: 46px;
+    margin-right: 48px;
 }
-
+@media screen and (max-width: 768px) {
+    .header__language {
+        margin-right: 24px; 
+    }
+}
 @media screen and (max-width: 320px) {
     .header__language {
         font-size: 18px;
-        line-height: 20px;   
+        line-height: 20px;
+        margin-top: 30px;
+        margin-right: 16px;
     }
 }

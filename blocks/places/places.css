@@ -2,3 +2,9 @@
     margin: 92px auto 0;
     box-sizing: border-box;
 }
+@media screen and (max-width: 600px) {
+    .places {
+        margin: 64px auto 0;
+
+    } 
+}
