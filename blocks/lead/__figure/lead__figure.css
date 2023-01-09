@@ -1,9 +1,9 @@
-.lead_figure {
+.lead__figure {
     margin: 0;
 }
 
 @media screen and (max-width: 768px) {
-    .lead_figure {
+    .lead__figure {
         width: 100%;
     }
 }

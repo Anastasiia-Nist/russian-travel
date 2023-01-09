@@ -5,18 +5,11 @@
     display: flex;
     align-items: flex-start;
     margin-top: 46px;
-    margin-right: 48px;
 }
-@media screen and (max-width: 768px) {
-    .header__language {
-        margin-right: 24px; 
-    }
-}
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .header__language {
         font-size: 18px;
         line-height: 20px;
         margin-top: 30px;
-        margin-right: 16px;
     }
 }

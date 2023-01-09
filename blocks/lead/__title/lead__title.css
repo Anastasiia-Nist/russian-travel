@@ -18,7 +18,7 @@
         line-height: calc(44px + 56 * (100vw - 320px) / (1280 - 320));
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 440px) {
     .lead__title {
         max-width: 288px;
         font-size: 40px;

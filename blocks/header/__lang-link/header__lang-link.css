@@ -1,4 +1,4 @@
-.header__lang-link:hover {
-  text-decoration: underline;
-  opacity: 1;  
+.header__lang-link {
+  text-decoration: none;
+  color: #fff;
 }

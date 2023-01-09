@@ -3,9 +3,9 @@
     flex-direction: column;
     justify-content: end;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 620px) {
     .website {
-        width: 288px;
+        width: calc(100vw - 32px);
         margin: 0 auto;
     }
 }
