@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: end;
 }
-@media screen and (max-width: 620px) {
+@media screen and (max-width: 630px) {
   .place__website {
     width: calc(100vw - 32px);
     margin: 0 auto;
