@@ -1,12 +1,12 @@
 .footer__navigation {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 18px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
 }
 
 @media screen and (max-width: 425px) {
-    .footer__navigation {
-        font-size: 24px;
-        line-height: 24px;
-    }
+  .footer__navigation {
+    font-size: 24px;
+    line-height: 24px;
+  }
 }

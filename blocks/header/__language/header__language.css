@@ -1,15 +1,17 @@
 .header__language {
-    font-size: 24px;
-    line-height: 28px;
-    font-weight: 400;
-    display: flex;
-    align-items: flex-start;
-    margin-top: 46px;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 400;
+  display: flex;
+  align-items: flex-start;
+  padding-top: 18px;
+  padding-bottom: 6px;
 }
 @media screen and (max-width: 425px) {
-    .header__language {
-        font-size: 18px;
-        line-height: 20px;
-        margin-top: 30px;
-    }
+  .header__language {
+    font-size: 18px;
+    line-height: 20px;
+    padding-top: 14px;
+    padding-bottom: 8px;
+  }
 }

@@ -1,11 +1,11 @@
 .place__website {
-    display: flex;
-    flex-direction: column;
-    justify-content: end;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
 }
 @media screen and (max-width: 620px) {
-    .place__website {
-        width: calc(100vw - 32px);
-        margin: 0 auto;
-    }
+  .place__website {
+    width: calc(100vw - 32px);
+    margin: 0 auto;
+  }
 }

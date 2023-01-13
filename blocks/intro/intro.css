@@ -1,28 +1,31 @@
 .intro {
-    display: flex;
-    flex-direction: column;
-    max-width: 984px;
-    margin: 92px 148px 0;
+  display: flex;
+  flex-direction: column;
+  max-width: 984px;
+  margin: 92px 148px 0;
 }
 
 @media screen and (max-width: 1024px) {
-    .intro {
-        max-width: 690px;
-        margin-left: 48px;
-        margin-right: min(48px);
-    }
+  .intro {
+    max-width: 690px;
+    margin-left: 48px;
+    margin-right: min(48px);
+  }
 }
 @media screen and (max-width: 768px) {
-    .intro {
-        max-width: 720px;
-        margin-top: 88px;
-        margin-left: 24px;
-    }
+  .intro {
+    max-width: 720px;
+    margin-top: 88px;
+    margin-left: 24px;
+    margin-right: 24px;
+  }
 }
 
 @media screen and (max-width: 425px) {
-    .intro {
-        max-width: 288px;
-        margin-top: 64px;
-    }
+  .intro {
+    max-width: 288px;
+    margin-top: 64px;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
 }
